@@ -1,4 +1,4 @@
-export type Categories = 'project'
+export type Categories = 'robot revolution' | 'english'
 
 export type Post = {
     title: string

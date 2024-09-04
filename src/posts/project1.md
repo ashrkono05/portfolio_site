@@ -3,7 +3,7 @@ title: Project 1
 description: My first project
 date: '2024-08-26'
 categories:
-  - project
+  - robot revolution
 published: true
 ---
 

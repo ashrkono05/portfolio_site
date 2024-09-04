@@ -5,16 +5,16 @@
 	export let data
 </script>
 
-<h1>Ash Konovalchuk's<br/>Portfolio</h1>
-
 <section>
 	<ul class="posts">
 		{#each data.posts as post}
-			<li class="post">
-				<a href={post.slug} class="title">{post.title}</a>
-				<p class="date">{formatDate(post.date)}</p>
-				<p class="description">{post.description}</p>
-			</li>
+            {#if JSON.stringify(post.categories) == JSON.stringify(['robot revolution'])}
+                <li class="post">
+                    <a href={post.slug} class="title">{post.title}</a>
+                    <p class="date">{formatDate(post.date)}</p>
+                    <p class="description">{post.description}</p>
+                </li>
+            {/if}
 		{/each}
 	</ul>
 </section>
@@ -33,9 +33,4 @@
 		border-bottom: 1px solid var(--border);
 		padding-bottom: var(--size-7);
 	}
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
 </style>
