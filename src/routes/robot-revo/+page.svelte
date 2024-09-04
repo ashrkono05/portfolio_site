@@ -33,4 +33,9 @@
 		border-bottom: 1px solid var(--border);
 		padding-bottom: var(--size-7);
 	}
+	ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
 </style>

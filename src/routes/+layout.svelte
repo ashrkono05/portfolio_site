@@ -30,3 +30,7 @@
 </nav>
 
 <slot />
+
+<nav style='padding: 20px; border-bottom: 3px solid #ccc; margin-bottom: 60px'>
+    <p>&copy; 2024 Ash Konovalchuk</p>
+</nav>
