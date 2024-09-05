@@ -6,6 +6,7 @@
 </script>
 
 <section>
+	<h3>Robot Revolution</h3>
 	<ul class="posts">
 		{#each data.posts as post}
             {#if JSON.stringify(post.categories) == JSON.stringify(['robot revolution'])}
