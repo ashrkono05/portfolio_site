@@ -1,22 +1,4 @@
-<!--<ul>
-    <li><a href="/">Home</a></li>
-</ul>
 
-<slot />
-<style>
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        background-color: #333;
-    }
-  
-  li {
-    display: inline;
-  }
-</style>
--->
 
 <nav class="navbar" style='padding: 20px; border-bottom: 3px solid #ccc; margin-bottom: 60px'>
     <a href="/">
