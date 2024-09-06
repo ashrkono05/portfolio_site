@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { superForm } from "sveltekit-superforms";
 	import type { PageData } from "../$types";
-    import { Turnstile } from "svelte-turnstile";
 
 
     export let data: PageData;
