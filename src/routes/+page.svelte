@@ -5,6 +5,11 @@
 	export let data
 </script>
 
+<svelte:head>
+	<title>Ash Konovalchuk Portfolio</title>
+	<meta property="og:title" content="Portfolio for my robot revolution class at JCC" />
+</svelte:head>
+
 <h1>Ash Konovalchuk's<br/>Portfolio</h1>
 
 <section>
