@@ -8,6 +8,7 @@
 <svelte:head>
 	<title>Robot Revolution</title>
 	<meta property="og:title" content="List of Projects for my robot revolution class at JCC" />
+	<meta name="description" content="List of Projects for my robot revolution class at JCC">
 </svelte:head>
 
 <section>
