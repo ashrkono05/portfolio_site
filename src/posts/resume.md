@@ -1,17 +1,8 @@
----
-title: Resume
-description: Ash Konovalchuk Resume
-date: '2024-10-21'
-categories:
-  - robot revolution
-published: true
----
-
 # Ash Konovalchuk
 
 # ---
 
-(716) 903 \- 3063 | ash@ashrkono05.us | Cuba, NY 
+(716) 903 \- 3063 | [www.linkedin.com/in/ash-konovalcuk-01809b333](http://www.linkedin.com/in/ash-konovalcuk-01809b333) | ash@ashrkono05.us | Cuba, NY 
 
 # **PROFESSIONAL SUMMARY**
 
@@ -23,18 +14,6 @@ Committed credit union professional with hands-on experience in small business m
 * **Personal attributes:** Creative; Detail oriented; Ambitious; 
 
 # **RELEVANT EXPERIENCE**
-
-## **Executive Member | Allegany Crafts LLC, Cuba, NY**      
-
-### July 2024 \- Present 
-
-* Managed all aspects of business operations, including product creation, order fulfillment, and customer relations.  
-* Developed and maintained the company’s e-commerce website, optimizing user experience and ensuring smooth online transactions.  
-* Produced handcrafted candles and wax melts, adhering to high-quality standards and managing inventory.  
-* Created and implemented cohesive brand designs across products, packaging, and online presence, ensuring consistency and alignment with the company’s vision while adhering to legal and regulatory requirements.  
-* Developed and executed marketing strategies to promote products, including social media campaigns and email newsletters, driving traffic to the website and increasing customer engagement.  
-* Handled bookkeeping responsibilities, tracking expenses, managing budgets, and preparing financial reports for tax filings.  
-* Processed and fulfilled customer orders, ensuring prompt delivery and high customer satisfaction through efficient service and communication.
 
 ## **Executive Director | Cattware Co. Inc., Cuba, NY**
 
@@ -49,6 +28,18 @@ Committed credit union professional with hands-on experience in small business m
 * Ensured legal compliance in all aspects of web design, including accessibility standards and data privacy regulations.  
 * Managed bookkeeping, tracked expenses, and handled tax filings, ensuring accurate financial reporting for the company.  
 * Provided ongoing website maintenance and hosting services for clients, supporting their long-term business growth with custom solutions.
+
+## **Executive Creative Member | Allegany Crafts LLC, Cuba, NY**      
+
+### July 2024 \- November 2024 
+
+* Managed all aspects of business operations, including product creation, order fulfillment, and customer relations.  
+* Developed and maintained the company’s e-commerce website, optimizing user experience and ensuring smooth online transactions.  
+* Produced handcrafted candles and wax melts, adhering to high-quality standards and managing inventory.  
+* Created and implemented cohesive brand designs across products, packaging, and online presence, ensuring consistency and alignment with the company’s vision while adhering to legal and regulatory requirements.  
+* Developed and executed marketing strategies to promote products, including social media campaigns and email newsletters, driving traffic to the website and increasing customer engagement.  
+* Handled bookkeeping responsibilities, tracking expenses, managing budgets, and preparing financial reports for tax filings.  
+* Processed and fulfilled customer orders, ensuring prompt delivery and high customer satisfaction through efficient service and communication.
 
 # **EDUCATION**
 

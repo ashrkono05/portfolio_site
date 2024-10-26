@@ -27,7 +27,7 @@
 
         <!-- Post -->
         <div class="post">
-            <svelte:component this={data.content} />
+            <svelte:component class="content" this={data.content} />
         </div>
     </article>
 </center>
@@ -35,5 +35,8 @@
 <style>
     .post {
         padding: 15px;
+    }
+    .content li {
+        display: inline;
     }
 </style>
