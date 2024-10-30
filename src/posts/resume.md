@@ -1,3 +1,12 @@
+---
+title: Resume
+description: Resume
+date: '2024-10-28'
+categories:
+  - robot revolution
+published: true
+---
+
 # Ash Konovalchuk
 
 # ---
